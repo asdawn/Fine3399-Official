@@ -24,6 +24,7 @@ Fine3399 is a multi-purpose embedded board designed by rumu3f.
 ### 1.1 Features
 
 feature| details
+-------|--------
 CPU | RK3399 (A72\*2+A53\*4)
 RAM | 4GB 
 EMMC| 8GB/16GB/64GB/128GB
