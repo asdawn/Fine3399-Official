@@ -27,8 +27,8 @@ feature| details
 CPU | RK3399 (A72\*2+A53\*4)
 RAM | 4GB 
 EMMC| 8GB/16GB/64GB/128GB
-LAN1| gigabyte Ethernet 
-LAN2| gigabyte Ethernet（USB3.0）
+LAN1| Gigabit Ethernet 
+LAN2| Gigabit Ethernet（USB3.0）
 HDMI| HDMI 2.0
 TF| TF-card slot
 NVME| M key, PCIE 2.0 2X
