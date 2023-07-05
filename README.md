@@ -9,12 +9,11 @@ try{
 }catch(the core board){
     Modify the circuit to enable PCIE 2.0 (optional);
     Change the EMMC to get large storage space (optional);
-    Buy a Fine3399 motherboard;
+    Get a Fine3399 motherboard;
     Assemble them;
 }finally{
     Have fun with your Fine3399!
 }
-
 ```
 
 ## 1. What is Fine3399
@@ -78,7 +77,7 @@ Know models:
 
 (3) Buy a new core board from bozztek\*
 
-Bozztek is the designer and producer of the sw799 core board. If you need a B2B contact, maybe you have to contact [bozztek](http://www.bozztek.com/).
+Bozztek is the designer and producer of the sw799 core board. If you need a B2B contract, maybe you have to contact [bozztek](http://www.bozztek.com/).
 
 \* you still have to modify it to enable PCIE.
 
