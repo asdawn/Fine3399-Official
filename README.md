@@ -1,5 +1,7 @@
 # Fine3399 Official
 
+![alt banner](./imgs/banner.gif "banner")
+
  Fine3399 - one final RK3399 geek board
 
 ```Java
@@ -19,6 +21,10 @@ try{
 ## 1. What is Fine3399
 
 Fine3399 is a multi-purpose embedded board designed by rumu3f.
+
+![alt top](./imgs/interfaces.jpg "top")
+![alt front](./imgs/panel1.jpg "front")
+![alt back](./imgs/panel2.jpg "back")
 
 ### 1.1 Features
 
